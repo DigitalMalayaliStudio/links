@@ -1,10 +1,4 @@
 - name: Instagram
   items:
-    - url: https://www.example.com
-      image: https://picsum.photos/700/400.webp # You can use paths to images in the assets folder, e.g., assets/images/insta.jpg.
-
-    - url: https://www.example.org
-      image: https://picsum.photos/500.webp
-
-    - url: https://www.example.com
-      image: https://picsum.photos/250/300.webp
+    - url: https://github.com/digitalmalayalistudio/unstruction-jekyll-theme/
+      image: https://i.ibb.co/2Fh9TZs/Unstruction.webp 
