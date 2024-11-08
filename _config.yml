@@ -25,7 +25,7 @@ image:
 badge:
   enable: true # Set to 'true' or 'false' to enable / disable the badge
   icon: ri:verified-badge-fill  # Enter the icon name for the badge from Iconify Design (https://icon-sets.iconify.design/)
-  color: '#B682D9'  # Define the color of the badge
+  color: '#6850BF'  # Define the color of the badge
  
 # Defaults
 defaults:
