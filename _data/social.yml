@@ -1,29 +1,34 @@
 - name: facebook
-  url: https://www.facebook.com/example
+  url: https://www.facebook.com/digitalmalayalistudio/
   icon: ri:facebook-fill
-  color: '#1877F2'
+  color: '#B682D9'
 
 - name: instagram
-  url: https://www.instagram.com/example
+  url: https://www.instagram.com/digitalmalayalistudio/
   icon: ri:instagram-fill
-  color: '#E4405F'
+  color: '#B682D9'
 
-- name: x
-  url: https://x.com/example
-  icon: ri:twitter-x-fill
-  color: '#1D9BF0'
-
-- name: mastodon
-  url: https://mastodon.social/@example
-  icon: ri:mastodon-fill
-  color: '#6364FF'
+- name: linkedin
+  url: https://www.linkedin.com/company/digitalmalayalistudio/
+  icon: ri:linkedin-fill
+  color: '#B682D9'
 
 - name: whatsapp
-  url: https://wa.me/1XXXXXXXXXX
+  url: https://wa.me/917012386134
   icon: ri:whatsapp-fill
-  color: '#25D366'
+  color: '#B682D9'
 
-- name: youtube
-  url: https://www.youtube.com/@example
-  icon: ri:youtube-fill
-  color: '#FF0000'
+- name: phone
+  url: tel:+917012386134
+  icon: ri:phone-fill
+  color: '#B682D9'
+
+- name: mail
+  url: mailto:studio@digitalmalayali.in
+  icon: ri:mail-fill
+  color: '#B682D9'
+
+- name: google maps
+  url: https://maps.app.goo.gl/LPgfAaJcFe856FKL8
+  icon: ri:map-pin-fill
+  color: '#B682D9'
