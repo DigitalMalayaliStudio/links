@@ -1,4 +1,6 @@
 - name: Instagram
   items:
     - url: https://github.com/digitalmalayalistudio/unstruction-jekyll-theme/
-      image: https://i.ibb.co/2Fh9TZs/Unstruction.webp 
+      image: https://i.ibb.co/2Fh9TZs/Unstruction.webp
+    - url: https://github.com/DigitalMalayaliStudio/qlo_umami
+      image: https://i.ibb.co/FkRHFT23/Qlo1.webp
