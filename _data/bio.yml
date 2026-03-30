@@ -1,5 +1,7 @@
 - name: Instagram
   items:
+    - url: https://studio.digitalmalayali.in/js14
+      image: https://i.ibb.co/d0PT3ntQ/js14.webp
     - url: https://studio.digitalmalayali.in/blog/optimising-images-for-web/
       image: https://i.ibb.co/QvGJwL2L/optimise-img-insta-post.webp
     - url: https://github.com/DigitalMalayaliStudio/unstruction-wordpress-theme
